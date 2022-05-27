@@ -7,9 +7,9 @@ function App() {
 
   return (
     <div className="App">
-      <WithSubnavigation />
+      {/* <WithSubnavigation /> */}
      
-       {/* <SimpleSidebar /> */}
+       <SimpleSidebar />
 
        {/* <Form />  */}
     </div>
